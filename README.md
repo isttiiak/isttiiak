@@ -33,7 +33,14 @@ Welcome to my GitHub profile! I'm a **3rd-year undergraduate student at BRAC Uni
 ## 📈 GitHub Stats
 ![Istiak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isttiiak&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isttiiak&hide_progress=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isttiiak&layout=compact&theme=radical)
+
+[![wakatime](https://wakatime.com/badge/user/736896f6-65cf-457b-b8a7-bb6485d013c0.svg)](https://wakatime.com/@736896f6-65cf-457b-b8a7-bb6485d013c0)
+
+![Istiak's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=isttiiak&theme=radical)
+
 
 ---
 
