@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a **3rd-year undergraduate student at BRAC Uni
 ---
 
 ## 🔗 Connect with Me
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isttiiak@gmail.com)  
+
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isttiiak/)
 - [![X (formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/isttiiak)
 - [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/isttiiak)
