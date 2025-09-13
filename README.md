@@ -1,9 +1,18 @@
-# Hi there! 👋 I'm Istiak Islam
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JAWAD645/JAWAD645/refs/heads/main/new%20final%20banner.svg" alt="Banner" width="100%" height="auto" />
+</p>
+-->
+<!--h1 align="center">Hi 👋, I'm Istiak Islam</h1-->
 
-Welcome to my GitHub profile! I'm a **3rd-year undergraduate student at BRAC University** and a passionate **tech enthusiast**. I'm actively working on **web development** and continuously learning new technologies to expand my skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Istiak+Islam" />
+</p>
+
+Welcome to my GitHub profile! I'm a **final-year undergraduate student at BRAC University** and a passionate **tech enthusiast**. I'm actively working on **web development** and continuously learning new technologies to expand my skills.
 
 ## 🌟 About Me
-- 🎓 **Education**: 3rd-year undergraduate student at BRAC University.
+- 🎓 **Education**: final-year undergraduate student at BRAC University.
 - 💻 **Tech Enthusiast**: Exploring the world of programming and technology.
 - 🌐 **Web Development**: Building and enhancing web applications.
 - 📚 **Learning**:
