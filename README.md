@@ -20,13 +20,16 @@ Welcome to my GitHub profile! I'm a **final-year undergraduate student at BRAC U
   - Python
   - MongoDB
   - React
+  - SQl
+  - Docker
+  - CI/CD
+  - EDA
 
 ---
 
 ## 🌐 Areas of Interest
 - ☁️ Cloud Computing
 - ⚙️ DevOps
-- ⛓️ Blockchain
 - 🔐 Cybersecurity
 
 ---
